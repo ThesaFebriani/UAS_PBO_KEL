@@ -7,6 +7,8 @@ NAMA KELOMPOK:
 
 
 
+## Penjelasan kode
+
   <img width="587" alt="Cuplikan layar 2023-12-13 174902" src="https://github.com/ThesaFebriani/UAS_PBO_KEL/assets/147154548/a18949f6-a4b8-4f92-8486-f6c581b65057">
 
   

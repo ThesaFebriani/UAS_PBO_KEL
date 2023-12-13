@@ -40,10 +40,6 @@ NAMA KELOMPOK:
 
   Penjelasan:
 
-  Gambar diatas merupakan tampilan hasil dari program yang kami buat, dimana kita bisa mengubah DNA menjadi RNA, kemudian diubah menjadi protein. 
-
-
-  
-
+  Gambar diatas merupakan tampilan hasil dari program yang kami buat, dimana kita bisa mengubah DNA menjadi RNA, kemudian diubah menjadi protein. Kita dapat memasukkan uritan DNA yang ingin kita terjemahkan kedalam kolom inputan, kemudian untuk menerjemahkannya dengan cara menekan tombol "Terjemahkan", maka akan ditampilkan urutan RNA dan protein dari DNA yang diinputkan.
 
 

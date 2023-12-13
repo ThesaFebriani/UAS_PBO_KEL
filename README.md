@@ -33,6 +33,14 @@ NAMA KELOMPOK:
 
   def __init__(self, root): adalah konstruktor kelas DNAConverterApp. Method ini dipanggil saat objek dari kelas dibuat. Parameter root adalah referensi ke objek Tk dari Tkinter, yang menjadi elemen utama dari GUI. self.root = root: adalah inisialisasi atribut root dari objek DNAConverterApp, yang menyimpan referensi ke objek Tk yang diberikan saat objek DNAConverterApp dibuat. self.root.title("Penerjemah DNA"): Mengatur judul jendela aplikasi menjadi "Penerjemah DNA". self.label = tk.Label(root, text="Masukkan Urutan DNA:"): Membuat label dengan teks "Masukkan Urutan DNA:" yang akan ditampilkan di jendela aplikasi. self.label.pack(): Menempatkan label ke dalam jendela aplikasi menggunakan metode pack() dari Tkinter, yang mengatur tata letak elemen-elemen dalam GUI. self.entry = tk.Entry(root): Membuat elemen Entry yang merupakan kotak input untuk pengguna memasukkan urutan DNA. self.entry.pack(): Menempatkan kotak input ke dalam jendela aplikasi menggunakan metode pack().
 
+
+  <img width="307" alt="image" src="https://github.com/ThesaFebriani/UAS_PBO_KEL/assets/147154548/afe03354-07ec-4f6a-aff8-889c0e96d34c">
+
+  Penjelasan:
+
+  Gambar diatas merupakan tampilan hasil dari program yang kami buat, dimana kita bisa mengubah DNA menjadi RNA, kemudian diubah menjadi protein. 
+
+
   
 
 
